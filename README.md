@@ -1,5 +1,5 @@
 This project was created to test JavaScript skills.
-It is from the weekly challenge from the folks at [Scrimba](scrimba.com)
+It is from the weekly challenge from the folks at [Scrimba](https://scrimba.com/)
 
 
 ## Source
