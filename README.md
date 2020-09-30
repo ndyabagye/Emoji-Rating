@@ -1,4 +1,4 @@
-This project was created to test Js skills.
+This project was created to test JavaScript skills.
 It is from the weekly challenge from the folks at [Scrimba](scrimba.com)
 
 
